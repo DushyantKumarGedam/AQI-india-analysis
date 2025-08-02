@@ -1,0 +1,57 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,min_value,max_value,avg_value
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,SO2,9,13,11
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,PM2.5,NA,NA,NA
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,PM10,NA,NA,NA
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,NH3,NA,NA,NA
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,PM2.5,63,86,76
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,PM2.5,53,64,57
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,PM2.5,29,47,38
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,CO,6,57,32
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,NO2,5,7,5
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,SO2,15,18,15
+India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",01-08-2025 16:00:00,16.536107,80.594233,SO2,19,25,20
+India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",01-08-2025 16:00:00,16.536107,80.594233,CO,21,44,33
+India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",01-08-2025 16:00:00,16.536107,80.594233,OZONE,5,19,11
+India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",01-08-2025 16:00:00,16.509717,80.612222,PM2.5,59,95,69
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,NO2,12,25,18
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,NH3,3,4,4
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,CO,5,67,38
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,OZONE,5,31,20
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,NO2,NA,NA,NA
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,CO,33,38,36
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,CO,20,42,24
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,NH3,5,6,5
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,CO,10,65,27
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,PM10,45,75,58
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,SO2,2,5,4
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,PM2.5,30,36,32
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,PM10,44,51,47
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,PM10,57,90,74
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,SO2,NA,NA,NA
+India,Andhra_Pradesh,Anantapur,"Gulzarpet, Anantapur - APPCB",01-08-2025 16:00:00,14.675886,77.593027,OZONE,16,18,18
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,NO2,19,33,23
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,SO2,14,17,15
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,NO2,12,23,18
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,SO2,15,17,16
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,PM2.5,20,56,33
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,NO2,6,50,19
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,NH3,4,15,5
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,SO2,NA,NA,NA
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,NH3,1,2,1
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,OZONE,14,313,28
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,CO,10,16,11
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,PM10,52,65,57
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,CO,20,38,30
+India,Andhra_Pradesh,Kadapa,"Yerramukkapalli, Kadapa - APPCB",01-08-2025 16:00:00,14.465052,78.824187,OZONE,32,44,41
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,PM10,23,88,56
+India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",01-08-2025 16:00:00,16.509717,80.612222,PM10,60,96,70
+India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",01-08-2025 16:00:00,16.5150833,80.5181667,PM2.5,17,33,26
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,PM10,60,81,71
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,NH3,6,8,7
+India,Andhra_Pradesh,Chittoor,"Gangineni Cheruvu, Chittoor - APPCB",01-08-2025 16:00:00,13.204880,79.097889,OZONE,44,58,53
+India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",01-08-2025 16:00:00,16.9872867,81.7363176,OZONE,6,38,12
+India,Andhra_Pradesh,Tirumala,"Toll Gate, Tirumala - APPCB",01-08-2025 16:00:00,13.67,79.35,NO2,9,17,13
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,NH3,2,3,3
+India,Andhra_Pradesh,Tirupati,"Vaikuntapuram, Tirupati - APPCB",01-08-2025 16:00:00,13.615387,79.409230,OZONE,24,27,26
+India,Andhra_Pradesh,Vijayawada,"HB Colony, Vijayawada - APPCB",01-08-2025 16:00:00,16.536107,80.594233,NO2,20,22,20
+India,Andhra_Pradesh,Vijayawada,"Rajiv Gandhi Park, Vijayawada - APPCB",01-08-2025 16:00:00,16.509717,80.612222,NH3,4,6,5
