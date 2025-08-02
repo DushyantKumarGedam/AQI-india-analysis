@@ -1,1 +1,0 @@
-SELECT * FROM real_time_aqi
