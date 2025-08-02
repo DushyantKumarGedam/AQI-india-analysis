@@ -16,7 +16,7 @@ df = df.where(pd.notnull(df), None)
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='12345678',
+    password='', # write your sql password here
     database='aqi_data'
 )
 
